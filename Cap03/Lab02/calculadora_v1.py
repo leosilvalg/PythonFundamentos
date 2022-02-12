@@ -4,6 +4,6 @@
 # A solução será apresentada no próximo capítulo!
 # Assista o vídeo com a execução do programa!
 
-print("\n******************* Python Calculator *******************")
+print("\n******************** Python Calculator ********************")
 
 
